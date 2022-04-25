@@ -7,4 +7,6 @@ Olá! Eu sou o João Lucas 🖐
 
 ![oJoaoLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&show_icons=true&theme=radical)
 
-## Cursando Sistemas de Informação - FHO 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact)](https://github.com/aoJoaoLucas/github-readme-stats)
+
+## Cursando Sistemas de Informação - FHO
