@@ -7,3 +7,5 @@ Olá! Eu sou o João Lucas 🖐
 ![oJoaoLucas GitHub stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&show_icons=true&theme=radical)
 
 ## Cursando Sistemas de Informação - FHO
+
+https://github.com/oJoaolucas/oJoaolucas/raw/output/github-contribution-grid-snake.svg
