@@ -33,7 +33,7 @@
 
 <div> 
   
-  ![6]([https://giffiles.alphacoders.com/916/91672.gif](https://pporg-cdn.nullcontent.net/monthly_2018_05/large.5aec4287c9aee_EeveeGif.gif.1687bde4b30e4ce1dd93c67f4bd13d24.gif)
+  ![6](https://pporg-cdn.nullcontent.net/monthly_2018_05/large.5aec4287c9aee_EeveeGif.gif.1687bde4b30e4ce1dd93c67f4bd13d24.gif)
  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ojoaolucas0?igshid=YmMyMTA2M2Y=)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jo%C3%A3olucaslimaaa)
