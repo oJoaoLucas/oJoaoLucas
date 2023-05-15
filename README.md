@@ -10,11 +10,11 @@
 ```
 <br>
 
-<div>
-  <a href="https://github.com/oJoaoLucas">
-    <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ojoaolucas&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ojoaolucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oJoaoLucas&theme=vision-friendly-dark&hide_border=false)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
   
  <div>
    I'm studying these technologies
