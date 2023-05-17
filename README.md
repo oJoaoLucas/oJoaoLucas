@@ -9,7 +9,6 @@
 - Currently I have dedicated myself to becoming a Front-end Developer.
 ```
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oJoaoLucas&theme=vision-friendly-dark&hide_border=false)
 ![Stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
@@ -27,6 +26,7 @@
    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)    
  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
 </div>
     
 <br>
