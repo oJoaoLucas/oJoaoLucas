@@ -10,9 +10,9 @@
 ```
 <br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
 ![Stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oJoaoLucas&theme=vision-friendly-dark&hide_border=false)
   
