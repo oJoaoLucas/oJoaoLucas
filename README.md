@@ -5,7 +5,7 @@
 </h3>
 
 ```
-- Information Systems Student
+- Information Systems Student.
 - Currently I have dedicated myself to becoming a Front-end Developer.
 ```
 <br>
