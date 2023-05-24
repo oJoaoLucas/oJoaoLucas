@@ -1,5 +1,5 @@
 <div align="center">
-  Hello World! Nice to meet you, I'm João Lucas Lima  
+  Hello World! Nice to meet you, I'm João Lucas Lima.  
 <br><br>
 
 </h3>
