@@ -11,7 +11,7 @@
 <br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oJoaoLucas&theme=vision-friendly-dark&hide_border=false)
-![Stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
+![Stats](https://o-joao-lucas.vercel.app/api?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
 
 
 
