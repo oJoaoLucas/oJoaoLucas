@@ -6,7 +6,7 @@
 
 ```
 - Information Systems Student.
-- Currently I have dedicated myself to becoming a Front-end Developer.
+- Currently I have dedicated myself to becoming a Front-end Developer :) .
 ```
 <br>
 
