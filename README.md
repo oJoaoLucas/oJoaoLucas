@@ -38,6 +38,6 @@
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jo%C3%A3olucaslimaaa)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojoaolucaslima/)
 
-  ![Snake animation](https://github.com/oJoaoLucas/oJoaoLucas/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
