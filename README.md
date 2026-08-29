@@ -1,43 +1,165 @@
 <div align="center">
-  Hello World! Nice to meet you, I'm João Lucas Lima.  
-<br><br>
 
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=200&section=header&text=Jo%C3%A3o%20Lucas&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Gerente%20Comercial%20%26%20Desenvolvedor%20%E2%80%A2%20Araras%20-%20SP&descAlignY=57&descSize=16" width="100%" />
 
-```
-- Information Systems Student.
-- Currently I have dedicated myself to becoming a Front-end Developer :) .
-```
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Sistemas+de+Informa%C3%A7%C3%A3o+na+FHO;Gerente+Comercial+no+Jura+Auto+Center;Eu+vivo+o+problema+e+depois+programo+a+solu%C3%A7%C3%A3o" alt="Typing SVG" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oJoaoLucas&theme=vision-friendly-dark&hide_border=false)
-![Stats](https://github-readme-stats.vercel.app/api?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
+<br/>
 
+<a href="https://www.linkedin.com/in/ojoaolucas0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/ojoaolucasl/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://open.spotify.com/user/jo%C3%A3olucaslimaaa">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</a>
+<a href="mailto:joao.lucas.limax@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
+<img src="https://komarev.com/ghpvc/?username=oJoaoLucas&style=for-the-badge&color=3b82f6&label=VISITAS" alt="views" />
 
- <div>
-   I'm studying these technologies:
-    
-![136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335](https://user-images.githubusercontent.com/94051879/194400886-f9f8b0ca-e4fc-44a5-829a-10cb25082eda.gif)
-
-   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)    
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=vision-friendly-dark)
 </div>
-    
 
-<div> 
-  
-  ![6](https://pporg-cdn.nullcontent.net/monthly_2018_05/large.5aec4287c9aee_EeveeGif.gif.1687bde4b30e4ce1dd93c67f4bd13d24.gif)
- 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ojoaolucas0?igshid=YmMyMTA2M2Y=)
-  [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jo%C3%A3olucaslimaaa)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojoaolucas0/)
+---
 
+## 👋 Sobre mim
 
- 
+```ts
+const joaoLucas = {
+  idade:     22,
+  local:     "Araras, São Paulo 🇧🇷",
+  cargo:     "Gerente Comercial @ Jura Auto Center",
+  cursando:  "Sistemas de Informação — FHO",
+  paixoes:   ["tecnologia", "automóveis"],
+  diferenca: "vivo o problema no balcão e programo a solução depois",
+};
+```
+
+Sou **Gerente Comercial do Jura Auto Center**, onde cuido do comercial, do marketing, da parte técnica e do sistema da empresa. Atendimento na loja e no WhatsApp, estratégia de vendas, negociação com fornecedor, campanhas de marketing digital e as redes sociais da empresa — incluindo as artes, no Photoshop.
+
+Em paralelo, curso **Sistemas de Informação na FHO** e desenvolvo as ferramentas que a própria oficina usa todo dia. É aí que mora a diferença: eu não recebo um requisito por e-mail — eu **sou** o usuário. Sei onde o processo trava porque travei nele ontem.
+
+> Automação, gestão e inovação aplicadas a um negócio real, com resultado medido em cliente atendido mais rápido.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+**O que eu mais uso** — Painel Jura e site da Jura Auto Center
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Banco & Deploy**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+**Front-end na raiz** — landing pages e mini-projetos
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Da faculdade (FHO) e estudos**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🔧 Painel Jura — o sistema da oficina, no ar e em uso diário
+
+Não é projeto de portfólio: é o software que a **Jura Auto Center usa todo dia** pra tocar a operação.
+
+| | |
+|---|---|
+| 📺 **TV na oficina** | Status dos elevadores em tempo real, cronômetro por carro, alerta quando algo demora — e **voz** anunciando cada mudança |
+| 🎙️ **Comando por voz** | A recepção fala *"elevador 1 Gol alinhamento"* e o sistema entende. Parser próprio + IA, sempre com confirmação antes de executar |
+| 📋 **Recepção** | Fila de alinhamento, carros aguardando, lembretes, pausa de cronômetro e histórico |
+| 💰 **Orçamento de pneus** | Monta o orçamento pronto pra mandar no WhatsApp do cliente |
+| ⚙️ **Configurável pela tela** | Mecânicos, sons, voz e até o vocabulário de oficina, editáveis sem tocar em código |
+
+**Stack:** Next.js 14 (App Router) · TypeScript · Tailwind · Supabase (Postgres + Realtime + RLS) · Vercel · Raspberry Pi rodando a TV em modo kiosk
+
+<div align="center">
+
+<a href="https://github.com/oJoaoLucas/painel-jura-elevadores">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJoaoLucas&repo=painel-jura-elevadores&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+<a href="https://github.com/oJoaoLucas/LP-Jura-Auto-Center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJoaoLucas&repo=LP-Jura-Auto-Center&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&icon_color=3b82f6" />
+</a>
+
+<br/>
+
+<a href="https://jura-painel.vercel.app/painel">
+  <img src="https://img.shields.io/badge/Ver_o_painel_ao_vivo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oJoaoLucas&show_icons=true&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&icon_color=3b82f6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=oJoaoLucas&theme=react&background=0d1117&border=1f2937&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+
+</div>
+
+---
+
+## 💬 Bora conversar
+
+<div align="center">
+
+Aberto a freela, parceria ou só trocar ideia sobre projeto, carro ou tecnologia.
+
+<a href="https://www.linkedin.com/in/ojoaolucas0/">
+  <img src="https://img.shields.io/badge/Chama_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ojoaolucasl/">
+  <img src="https://img.shields.io/badge/Me_segue-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/user/jo%C3%A3olucaslimaaa">
+  <img src="https://img.shields.io/badge/O_que_eu_ouço-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>"Sistema bom é o que a equipe usa sem perceber que existe."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
+
 </div>
