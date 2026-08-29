@@ -108,35 +108,26 @@ Não é projeto de portfólio: é o software que a **Jura Auto Center usa todo d
 
 <div align="center">
 
-<a href="https://github.com/oJoaoLucas/painel-jura-elevadores">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJoaoLucas&repo=painel-jura-elevadores&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&icon_color=3b82f6" />
-</a>
-<a href="https://github.com/oJoaoLucas/LP-Jura-Auto-Center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oJoaoLucas&repo=LP-Jura-Auto-Center&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&icon_color=3b82f6" />
-</a>
-
-<br/>
-
 <a href="https://jura-painel.vercel.app/painel">
   <img src="https://img.shields.io/badge/Ver_o_painel_ao_vivo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/oJoaoLucas/painel-jura-elevadores">
+  <img src="https://img.shields.io/badge/Código_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub
+## 📁 Outros projetos
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oJoaoLucas&show_icons=true&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&icon_color=3b82f6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJoaoLucas&layout=compact&theme=react&bg_color=0d1117&border_color=1f2937&title_color=3b82f6&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=oJoaoLucas&theme=react&background=0d1117&border=1f2937&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
-
-</div>
+| Projeto | O que é | Feito com |
+|---|---|---|
+| **[Painel Jura](https://github.com/oJoaoLucas/painel-jura-elevadores)** | Sistema de operação da oficina, em uso diário | TypeScript · Next.js · Supabase |
+| **[Site Jura Auto Center](https://github.com/oJoaoLucas/sitejuraautocenter)** | Site institucional da empresa | TypeScript · Next.js |
+| **[LP Jura Auto Center](https://github.com/oJoaoLucas/LP-Jura-Auto-Center)** | Landing page de captação | HTML · CSS · JavaScript |
+| **[Eco Monitor](https://github.com/oJoaoLucas/Projeto-de-Aplicacao-Eco_monitor)** | Projeto de aplicação da faculdade | PHP · SQL |
+| **[Mini-projetos JS](https://github.com/oJoaoLucas/Mini-projetos-JS)** | Exercícios e experimentos de front-end | HTML · CSS · JavaScript |
 
 ---
 
