@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=200&section=header&text=Jo%C3%A3o%20Lucas&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Gerente%20Comercial%20%26%20Desenvolvedor%20%E2%80%A2%20Araras%20-%20SP&descAlignY=57&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Sistemas+de+Informa%C3%A7%C3%A3o+na+FHO;Gerente+Comercial+no+Jura+Auto+Center;Eu+vivo+o+problema+e+depois+programo+a+solu%C3%A7%C3%A3o" alt="Typing SVG" />
+### Sistemas de Informação na FHO · Gerente Comercial no Jura Auto Center
+
+**Eu vivo o problema no balcão e programo a solução depois.**
 
 <br/>
 
@@ -18,8 +20,6 @@
 <a href="mailto:joao.lucas.limax@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=oJoaoLucas&style=for-the-badge&color=3b82f6&label=VISITAS" alt="views" />
 
 </div>
 
@@ -108,11 +108,8 @@ Não é projeto de portfólio: é o software que a **Jura Auto Center usa todo d
 
 <div align="center">
 
-<a href="https://jura-painel.vercel.app/painel">
-  <img src="https://img.shields.io/badge/Ver_o_painel_ao_vivo-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 <a href="https://github.com/oJoaoLucas/painel-jura-elevadores">
-  <img src="https://img.shields.io/badge/Código_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ver_o_código-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
