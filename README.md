@@ -27,7 +27,7 @@
 
 ```ts
 const joaoLucas = {
-  idade:     22,
+  idade:     23,
   local:     "Araras, São Paulo 🇧🇷",
   cargo:     "Gerente Comercial @ Jura Auto Center",
   cursando:  "Sistemas de Informação — FHO",
