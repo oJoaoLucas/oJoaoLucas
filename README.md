@@ -22,11 +22,11 @@ Next.js · Supabase · Python
 
 **Titans Araras**\
 Gestão do time de vôlei Titans Araras: atletas, chamada, mensalidades, relatórios e inscrição online.\
-Next.js · Supabase · [voleititansararas.com.br](https://voleititansararas.com.br)
+Next.js · Supabase · voleititansararas.com.br
 
 **Moedin.IA**\
 Assistente financeiro pessoal: gastos registrados pelo WhatsApp em texto, áudio ou foto e acompanhados num painel web. TCC desenvolvido em equipe.\
-Next.js · Supabase · [moedin-ia.com.br](https://www.moedin-ia.com.br)
+Next.js · Supabase · moedin-ia.com.br
 
 ### Contato
 
