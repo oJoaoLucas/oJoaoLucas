@@ -2,7 +2,7 @@
 
 Sistemas de Informação (FHO) · Gerente Comercial no Jura Auto Center · Araras, SP
 
-Desenvolvo os sistemas que a oficina usa no dia a dia: gestão, automação de atendimento e visão computacional.
+Desenvolvo sistemas web, automações e soluções com IA aplicados a operações reais: gestão de empresas, atendimento pelo WhatsApp, visão computacional e aplicativos de uso diário.
 
 ### Tecnologias
 
