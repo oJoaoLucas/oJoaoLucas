@@ -16,17 +16,17 @@ Desenvolvo os sistemas que a oficina usa no dia a dia: gestão, automação de a
 
 ### Projetos
 
-**Sistema Jura.ai**
-Gestão do Jura Auto Center: ordem de serviço, orçamento, estoque, clientes e relatórios. Os elevadores da oficina são atualizados por câmera e IA.
+**Sistema Jura.ai**\
+Gestão do Jura Auto Center: ordem de serviço, orçamento, estoque, clientes e relatórios. Os elevadores da oficina são atualizados por câmera e IA.\
 Next.js · Supabase · Python
 
-**Titans Araras**
-Gestão do time de vôlei Titans Araras: atletas, chamada, mensalidades, relatórios e inscrição online.
+**Titans Araras**\
+Gestão do time de vôlei Titans Araras: atletas, chamada, mensalidades, relatórios e inscrição online.\
 Next.js · Supabase · [voleititansararas.com.br](https://voleititansararas.com.br)
 
-**Moedin.IA**
-Assistente financeiro pessoal: gastos registrados pelo WhatsApp em texto, áudio ou foto e acompanhados num painel web. TCC desenvolvido em equipe.
-Next.js · Supabase · [moedin-ia.com.br](https://www.moedin-ia.com.br) · [código](https://github.com/oJoaoLucas/moedin-ia-vercel)
+**Moedin.IA**\
+Assistente financeiro pessoal: gastos registrados pelo WhatsApp em texto, áudio ou foto e acompanhados num painel web. TCC desenvolvido em equipe.\
+Next.js · Supabase · [moedin-ia.com.br](https://www.moedin-ia.com.br)
 
 ### Contato
 
