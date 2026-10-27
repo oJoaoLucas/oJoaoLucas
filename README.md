@@ -28,6 +28,8 @@ Evolution API · n8n · Claude API
 As câmeras da oficina identificam o carro em cada elevador e atualizam o sistema sozinhas.\
 Python · Claude API · visão computacional
 
+**Jura Auto Center — site e landing pages**Site institucional da oficina, com páginas por serviço e landing de pneus com pedido de orçamento.Next.js · Tailwind CSS · juraautocenter.com.br
+
 **Aplicativo de organização da vida em casal**\
 Agenda compartilhada, recados, treinos, finanças com divisão proporcional e metas, tarefas da casa, receitas e lista de mercado, viagens e listas de filmes e séries, com os módulos ligados entre si. Login por biometria e lembretes no celular.\
 React · Node.js · Supabase · PWA
