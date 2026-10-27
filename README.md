@@ -46,4 +46,5 @@ Next.js · Supabase · n8n · Evolution API · Claude API · OpenAI API · moedi
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/ojoaolucas0/)\njoao.lucas.limax@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ojoaolucas0/)\
+joao.lucas.limax@gmail.com
